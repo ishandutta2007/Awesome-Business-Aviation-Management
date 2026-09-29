@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Business-Aviation-Management"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Business-Aviation-Management?style=social" alt="GitHub stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Business-Aviation-Management"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Business-Aviation-Management?style=social" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Business-Aviation-Management/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Business-Aviation-Management?color=blue" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -58,7 +58,7 @@ The global **Aviation Management & Flight Operations Software Sector** is valued
 
 The open-source business aviation ecosystem provides foundational frameworks for flight tracking, EFB (Electronic Flight Bag) navigation, maintenance digitizing, and FMS libraries.
 
-| Repository | Stars | Description | Focus Area |
+| Repository | GitHub_Stars | Description | Focus Area |
 | :--- | :--- | :--- | :--- |
 | **[wiedehopf/tar1090](https://github.com/wiedehopf/tar1090)** 🌐 | [<img src="https://img.shields.io/github/stars/wiedehopf/tar1090?style=social&color=white" alt="tar1090 stars"/>](https://github.com/wiedehopf/tar1090/stargazers) | Web interface for ADS-B tracking receivers (`readsb` / `dump1090-fa`) with detailed aircraft trajectories. | Live Air Traffic & ADS-B Tracking |
 | **[wiedehopf/readsb](https://github.com/wiedehopf/readsb)** 📡 | [<img src="https://img.shields.io/github/stars/wiedehopf/readsb?style=social&color=white" alt="readsb stars"/>](https://github.com/wiedehopf/readsb/stargazers) | High-performance C-based ADS-B decoder and data feed aggregator for aviation airspace tracking. | ADS-B Signal Decoding |
